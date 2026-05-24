@@ -41,40 +41,44 @@
 ### 第 1-2 周：建立基础
 最高频的职场对话，覆盖核心语块。
 
-**第 1 周主题：项目沟通**
-- Day 01: 项目进度同步（touch base / on track / behind schedule）
-- Day 02: 会议中提问和发表意见（I have a question / from my perspective）
-- Day 03: Slack/邮件催进度（follow up / ETA / blocker）
-- Day 04: 和同事闲聊（how's it going / long time no see）
+**第 1 周主题：周会沟通（最高优先级）**
+- Day 01: 周会汇报工作进度（on track / behind schedule / ahead of plan）
+- Day 02: 周会中提问和讨论（circle back / drill down / take offline）
+- Day 03: Slack 日常沟通——简洁高效（heads up / FYI / bumping this）
+- Day 04: 和外国同事闲聊破冰（how was your weekend / did you do anything fun）
 - Day 05: 本周复习 + 变造重练
-- Day 06: 把本周对话改成邮件版
+- Day 06: 把本周口语对话改成正式邮件版
+- Day 07: 轻松英文——外国办公室文化趣闻
 
-**第 2 周主题：问题处理**
-- Day 07: 发现问题并上报（raise a flag / escalate）
-- Day 08: 开会讨论解决方案（brainstorm / pros and cons）
-- Day 09: 和跨部门同事协调（loop in / align）
-- Day 10: 点餐/咖啡店日常对话
-- Day 11: 本周复习
-- Day 12: 写一封描述问题的英文邮件
+**第 2 周主题：邮件写作（高优先级）**
+- Day 08: 写邮件汇报项目状态（update / status / milestone）
+- Day 09: 开会中表达不同意见（push back / I see your point but / devil's advocate）
+- Day 10: Slack 催人/跟进（nudge / gentle reminder / blocked on）
+- Day 11: 和外国同事聊中国文化/节日
+- Day 12: 本周复习
+- Day 13: 写一封完整的项目状态邮件
+- Day 14: 轻松英文——英文缩写和职场黑话（ASAP / EOD / OOO / PTO）
 
 ### 第 3-4 周：扩展场景
 加入谈判、说服、道歉、拒绝等更复杂的沟通。
 
-**第 3 周主题：说服与拒绝**
-- Day 13: 说服用户/老板采纳方案（make a case / compelling）
-- Day 14: 开会中礼貌地反对（push back / I see your point but）
-- Day 15: 邮件中委婉拒绝（unfortunately / at this time）
-- Day 16: 机场/旅行英语
-- Day 17: 本周复习
-- Day 18: 写一封委婉拒绝的邮件
+**第 3 周主题：英文面试（高优先级）**
+- Day 15: 面试自我介绍（background / track record / passionate about）
+- Day 16: 面试中描述项目经历（led / spearheaded / contributed to）
+- Day 17: Slack 处理紧急问题（urgent / escalation / war room）
+- Day 18: 机场/旅行英语
+- Day 19: 本周复习
+- Day 20: 写一段面试后的感谢邮件
+- Day 21: 轻松英文——面试常见坑和避坑
 
-**第 4 周主题：反馈与冲突**
-- Day 19: 给下属/同事反馈（constructive feedback / areas for improvement）
-- Day 20: 开会总结和行动项（wrap up / action items / takeaways）
-- Day 21: 处理客户/同事的不满（I understand your frustration / let me look into this）
-- Day 22: 社交聚会 small talk
-- Day 23: 本周复习
-- Day 24: 写一封给反馈的邮件
+**第 4 周主题：深入周会与面试**
+- Day 22: 周会中做 demo/presentation（walk you through / as you can see）
+- Day 23: 面试行为题（STAR 法则：situation / task / action / result）
+- Day 24: Slack 和外国同事协作（sync / align / handoff）
+- Day 25: 点餐/咖啡/购物英语
+- Day 26: 本周复习
+- Day 27: 写一份英文简历的项目经历描述
+- Day 28: 轻松英文——如何用英文讲笑话
 
 ### 第 5-6 周：进阶表达
 更地道的口语表达，包括习语、缩略、幽默。
