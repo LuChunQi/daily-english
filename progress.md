@@ -20,3 +20,4 @@
 |-----|------|------|-----------|------|
 | Day 01 | 2026-05-25 | 周会汇报工作进度 | 8 | on track / behind schedule / ahead of plan / pulled into / wrapped up / circle back / blocked on / EOD |
 | Day 02 | 2026-05-26 | 周会中提问和讨论 | 8 | drill down / chime in / loop someone in / action item / circle back / take this offline / follow up / good catch |
+| Day 03 | 2026-05-27 | Slack 日常沟通——简洁高效 | 8 | heads up / blocked on / work around / Good call / EOD·COB / FYI / Bumping this / loop (someone) in |
