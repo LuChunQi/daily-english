@@ -19,3 +19,4 @@
 | Day | 日期 | 场景 | 核心语块数 | 备注 |
 |-----|------|------|-----------|------|
 | Day 01 | 2026-05-25 | 周会汇报工作进度 | 8 | on track / behind schedule / ahead of plan / pulled into / wrapped up / circle back / blocked on / EOD |
+| Day 02 | 2026-05-26 | 周会中提问和讨论 | 8 | drill down / chime in / loop someone in / action item / circle back / take this offline / follow up / good catch |
