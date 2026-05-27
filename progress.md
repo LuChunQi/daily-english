@@ -22,3 +22,4 @@
 | Day 02 | 2026-05-26 | 周会中提问和讨论 | 8 | drill down / chime in / loop someone in / action item / circle back / take this offline / follow up / good catch |
 | Day 03 | 2026-05-27 | Slack 日常沟通——简洁高效 | 8 | heads up / blocked on / work around / Good call / EOD·COB / FYI / Bumping this / loop (someone) in |
 | Day 04 | 2026-05-26 | 和外国同事闲聊破冰 | 8 | How was your weekend / hang out / How did it turn out / edible / fall apart / Spoiler alert / show someone the ropes / I'm down |
+| Day 05 | 2026-05-28 | 第1周复习：语块总复习+新场景重练 | 24 | 全部本周语块复习，3个新场景覆盖全部24个表达 |
