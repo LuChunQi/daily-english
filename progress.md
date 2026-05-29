@@ -24,3 +24,4 @@
 | Day 04 | 2026-05-26 | 和外国同事闲聊破冰 | 8 | How was your weekend / hang out / How did it turn out / edible / fall apart / Spoiler alert / show someone the ropes / I'm down |
 | Day 05 | 2026-05-28 | 第1周复习：语块总复习+新场景重练 | 24 | 全部本周语块复习，3个新场景覆盖全部24个表达 |
 | Day 06 | 2026-05-29 | 写作日：口语→邮件转换技巧 | 4 | 结构化邮件写作、口语习语书面替代、邮件三段论、语气调节 |
+| Day 07 | 2026-05-30 | 轻松英文：外国办公室文化趣闻 | — | Small Talk潜规则/grab coffee/I'll think about it=No/Potluck/Open Office隐形规则 |
