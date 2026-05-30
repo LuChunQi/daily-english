@@ -7,48 +7,41 @@
 
 **场景：** 你是项目协调员 Alex，需要给项目经理 Brenda 和利益相关者写一封项目进度邮件。这是你和导师 Megan 之间的对话——她在帮你审阅邮件草稿。
 
-**A — Alex (Project Coordinator)**
-**B — Megan (Senior PM, Alex's Mentor)**
-
----
-
-**A (Alex):** Megan, I'm drafting the weekly project status email for the Horizon migration. Could you take a quick look before I send it out?
+A (Alex, Project Coordinator): Megan, I'm drafting the weekly project status email for the Horizon migration. Could you take a quick look before I send it out?
 （Megan，我在写 Horizon 迁移项目的每周状态邮件。发出去之前你能帮我看看吗？）
 
-**B (Megan):** Sure! What's the overall status — are we on track?
+B (Megan, Senior PM): Sure! What's the overall status — are we on track?
 （好的！整体状态怎么样——我们还在正轨上吗？）
 
-**A (Alex):** Mostly on track. We hit the first milestone last Friday — the data schema migration is complete. But the API integration is delayed by about two days.
+A (Alex): Mostly on track. We hit the first milestone last Friday — the data schema migration is complete. But the API integration is delayed by about two days.
 （基本在正轨上。我们上周五完成了第一个里程碑——数据架构迁移完成了。但 API 集成大概延迟了两天。）
 
-**B (Megan):** Okay, so you need to flag that clearly. In a status email, you want to lead with the headline, not bury the bad news. Start with a one-line summary at the top.
+B (Megan): Okay, so you need to flag that clearly. In a status email, you want to lead with the headline, not bury the bad news. Start with a one-line summary at the top.
 （明白，那你要把这个标记清楚。状态邮件里，要把重点放在最前面，别把坏消息藏着。开头先写一行总结。）
 
-**A (Alex):** Like "Horizon Migration — On Track with Minor Delay in API Integration"?
+A (Alex): Like "Horizon Migration — On Track with Minor Delay in API Integration"?
 （比如"Horizon 迁移 — 整体正常，API 集成轻微延迟"？）
 
-**B (Megan):** Perfect. That's a good subject line too. Now for the body — break it into three sections: what's done, what's in progress, and what's coming up next. Use bullet points so it's scannable.
+B (Megan): Perfect. That's a good subject line too. Now for the body — break it into three sections: what's done, what's in progress, and what's coming up next. Use bullet points so it's scannable.
 （完美。这也适合当邮件标题。正文部分——分成三块：已完成的、进行中的、下一步的。用项目符号，方便快速扫读。）
 
-**A (Alex):** Makes sense. Should I include the updated timeline for the API part?
+A (Alex): Makes sense. Should I include the updated timeline for the API part?
 （有道理。要不要附上 API 部分更新后的时间线？）
 
-**B (Megan):** Definitely. Be specific — say "API integration now expected to complete by Wednesday, June 4th" instead of "delayed by two days." Vague language makes people nervous.
+B (Megan): Definitely. Be specific — say "API integration now expected to complete by Wednesday, June 4th" instead of "delayed by two days." Vague language makes people nervous.
 （必须的。说具体点——写"API 集成预计 6 月 4 日周三完成"，别写"延迟两天"。模糊的措辞会让人紧张。）
 
-**A (Alex):** Got it. And what about the overall deadline? Should I reassure people that we're still on target?
+A (Alex): Got it. And what about the overall deadline? Should I reassure people that we're still on target?
 （明白了。那整体截止日期呢？要不要安抚一下大家我们仍然能按期完成？）
 
-**B (Megan):** Yes, but only if you're confident. If the overall deadline is still achievable, say something like "We remain on track for the June 15th launch." If you're not sure, say you're assessing the impact and will update by end of week.
+B (Megan): Yes, but only if you're confident. If the overall deadline is still achievable, say something like "We remain on track for the June 15th launch." If you're not sure, say you're assessing the impact and will update by end of week.
 （对，但前提是你有把握。如果整体截止日还能赶上，就说"6 月 15 日上线目标不变"。如果不确定，就说正在评估影响，本周末前更新。）
 
-**A (Alex):** Awesome. One more thing — how should I close the email? I always struggle with the ending.
+A (Alex): Awesome. One more thing — how should I close the email? I always struggle with the ending.
 （太好了。还有一件事——邮件结尾怎么写？我总不知道怎么收尾。）
 
-**B (Megan):** Keep it simple: "Let me know if you have questions" or "Happy to discuss further." Then sign off with "Best" or "Thanks" — nothing fancy. Save the creativity for the content, not the sign-off.
+B (Megan): Keep it simple: "Let me know if you have questions" or "Happy to discuss further." Then sign off with "Best" or "Thanks" — nothing fancy. Save the creativity for the content, not the sign-off.
 （简单就好："有问题随时联系"或者"欢迎进一步讨论"。然后署名用"Best"或"Thanks"就行——别搞花哨的。把创意花在内容上，不是署名上。）
-
----
 
 ─────────────────────────
 🎯【语块精讲】（8 个）
