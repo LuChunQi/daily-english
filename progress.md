@@ -26,3 +26,5 @@
 | Day 06 | 2026-05-29 | 写作日：口语→邮件转换技巧 | 4 | 结构化邮件写作、口语习语书面替代、邮件三段论、语气调节 |
 | Day 07 | 2026-05-30 | 轻松英文：外国办公室文化趣闻 | — | Small Talk潜规则/grab coffee/I'll think about it=No/Potluck/Open Office隐形规则 |
 | Day 08 | 2026-05-31 | 写邮件汇报项目状态：从口语到书面 | 8 | hit a milestone / flag / bury the bad news / scannable / what's done·in progress·next / vague language / remain on track for / assess the impact |
+| Day 09 | 2026-06-01 | 开会中表达不同意见 | 8 | I see where you're coming from / push back / devil's advocate / fair point / make the call / sign off / hear someone out / production incident |
+| Day 10 | 2026-06-02 | Slack 催人/跟进不回消息的同事 | 8 | gentle reminder / swamped / blocked on / bump to the top of my list / nudge / quick check-in / pulled into / escalate |
