@@ -28,3 +28,4 @@
 | Day 08 | 2026-05-31 | 写邮件汇报项目状态：从口语到书面 | 8 | hit a milestone / flag / bury the bad news / scannable / what's done·in progress·next / vague language / remain on track for / assess the impact |
 | Day 09 | 2026-06-01 | 开会中表达不同意见 | 8 | I see where you're coming from / push back / devil's advocate / fair point / make the call / sign off / hear someone out / production incident |
 | Day 10 | 2026-06-02 | Slack 催人/跟进不回消息的同事 | 8 | gentle reminder / swamped / blocked on / bump to the top of my list / nudge / quick check-in / pulled into / escalate |
+| Day 11 | 2026-06-03 | 和外国同事聊中国节日与文化 | 8 | What's the occasion / falls on / The big thing is / I wouldn't say no to / Fair warning / Challenge accepted / out of despair / recover from the week |
