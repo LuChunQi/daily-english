@@ -35,3 +35,4 @@
 | Day 14 | 2026-06-06 | 轻松英文：职场缩写与黑话大全 | — | 15个邮件Slack缩写+15个职场黑话+场景串烧示范 |
 | Day 15 | 2026-06-07 | 轻松英文：英文面试常见坑与避坑指南 | — | 6大面试坑+STAR法则+反问技巧+金句速查卡 |
 | Day 16 | 2026-06-08 | 面试中描述项目经历 | 8 | walk through / led / spearheaded / contributed to / dual-write / came in under budget / proof of concept / lesson learned |
+| Day 17 | 2026-06-09 | 会议上汇报线上故障并组织应急响应 | 8 | pull someone into this on short notice / spike in errors / line up / dig into / maxed out / war room / better safe than sorry / escalation path |
