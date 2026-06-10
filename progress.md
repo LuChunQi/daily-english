@@ -36,3 +36,5 @@
 | Day 15 | 2026-06-07 | 轻松英文：英文面试常见坑与避坑指南 | — | 6大面试坑+STAR法则+反问技巧+金句速查卡 |
 | Day 16 | 2026-06-08 | 面试中描述项目经历 | 8 | walk through / led / spearheaded / contributed to / dual-write / came in under budget / proof of concept / lesson learned |
 | Day 17 | 2026-06-09 | 会议上汇报线上故障并组织应急响应 | 8 | pull someone into this on short notice / spike in errors / line up / dig into / maxed out / war room / better safe than sorry / escalation path |
+| Day 18 | 2026-06-10 | 机场值机与旅行英语 | 8 | check in / carry-on / checked bag / under the weight limit / layover / go through customs / get to downtown / Have a safe flight |
+| Day 19 | 2026-06-11 | 餐厅点餐与和同事聊旅行计划 | 8 | Good thing / to die for / not that picky / same here / head to / getaway / show someone around / food scene |
