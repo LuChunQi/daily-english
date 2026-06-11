@@ -38,3 +38,4 @@
 | Day 17 | 2026-06-09 | 会议上汇报线上故障并组织应急响应 | 8 | pull someone into this on short notice / spike in errors / line up / dig into / maxed out / war room / better safe than sorry / escalation path |
 | Day 18 | 2026-06-10 | 机场值机与旅行英语 | 8 | check in / carry-on / checked bag / under the weight limit / layover / go through customs / get to downtown / Have a safe flight |
 | Day 19 | 2026-06-11 | 餐厅点餐与和同事聊旅行计划 | 8 | Good thing / to die for / not that picky / same here / head to / getaway / show someone around / food scene |
+| Day 20 | 2026-06-12 | 第3周复习：32个语块速查+3个新场景重练 | 32 | Day 16-19 全部语块复习，3个新场景（面试最大挑战/出差回来闲聊/紧急会议服务器资源不足） |
