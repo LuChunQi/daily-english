@@ -39,3 +39,4 @@
 | Day 18 | 2026-06-10 | 机场值机与旅行英语 | 8 | check in / carry-on / checked bag / under the weight limit / layover / go through customs / get to downtown / Have a safe flight |
 | Day 19 | 2026-06-11 | 餐厅点餐与和同事聊旅行计划 | 8 | Good thing / to die for / not that picky / same here / head to / getaway / show someone around / food scene |
 | Day 20 | 2026-06-12 | 第3周复习：32个语块速查+3个新场景重练 | 32 | Day 16-19 全部语块复习，3个新场景（面试最大挑战/出差回来闲聊/紧急会议服务器资源不足） |
+| Day 21 | 2026-06-13 | 写作日：口语→事故报告邮件（Post-Incident Report） | 6 | 口语习语→正式替代/时态转换/被动语态/数字精确化/结构化排版/语气调节 |
