@@ -43,3 +43,4 @@
 | Day 22 | 2026-06-14 | 周会 Demo：用英文做产品演示 | 8 | walk you through / take it away / as you can see / front and center / on the roadmap / that said / bump it up / in front of |
 | Day 23 | 2026-06-15 | 项目需求变更：和 PM 讨论范围蔓延 | 8 | got a minute / mid-sprint / deal-breaker / deprioritize / put on hold / scope down / ship first and iterate later / in the loop |
 | Day 24 | 2026-06-16 | 跨团队会议：同步进展、对齐优先级 | 8 | sync up / aligned / in flight / flag / blocked on / scope down / buy-in / hand off |
+| Day 25 | 2026-06-17 | Slack 跨时区协作：跟印度同事对接需求 | 8 | got a sec / fire away / heads-up / roll out / double-wrap / as-is / factor into / sort out |
