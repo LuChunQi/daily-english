@@ -44,3 +44,4 @@
 | Day 23 | 2026-06-15 | 项目需求变更：和 PM 讨论范围蔓延 | 8 | got a minute / mid-sprint / deal-breaker / deprioritize / put on hold / scope down / ship first and iterate later / in the loop |
 | Day 24 | 2026-06-16 | 跨团队会议：同步进展、对齐优先级 | 8 | sync up / aligned / in flight / flag / blocked on / scope down / buy-in / hand off |
 | Day 25 | 2026-06-17 | Slack 跨时区协作：跟印度同事对接需求 | 8 | got a sec / fire away / heads-up / roll out / double-wrap / as-is / factor into / sort out |
+| Day 26 | 2026-06-18 | 咖啡店偶遇同事：聊周末计划与 Work-Life Balance | 8 | fancy running into / coffee fix / running on fumes / back-to-back / I'm sold / cooped up / blow off steam / game-changer |
