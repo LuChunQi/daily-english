@@ -47,3 +47,4 @@
 | Day 26 | 2026-06-18 | 咖啡店偶遇同事：聊周末计划与 Work-Life Balance | 8 | fancy running into / coffee fix / running on fumes / back-to-back / I'm sold / cooped up / blow off steam / game-changer |
 | Day 27 | 2026-06-19 | 第4周复习：40个语块速查+3个新场景重练 | 40 | Day 22-26 全部语块复习，3个新场景（向上级汇报Demo反馈/跨时区紧急Bug协调/绩效考核1-on-1讨论新目标） |
 | Day 28 | 2026-06-20 | 写作日：需求变更讨论→正式决策邮件 | 6 | 结论先行(BLUF)/名词短语替代从句/bullet list分配Action Items/时态选择/语气调节/邮件万能模板 |
+| Day 29 | 2026-06-21 | 轻松英文：职场幽默生存指南——不是讲笑话，是会接话 | 7 | Deadpan/Self-Deprecation/Playful Trade/Jargon Misuse/Exaggeration/Yes And/Anti-Climax |
