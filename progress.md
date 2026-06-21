@@ -48,3 +48,4 @@
 | Day 27 | 2026-06-19 | 第4周复习：40个语块速查+3个新场景重练 | 40 | Day 22-26 全部语块复习，3个新场景（向上级汇报Demo反馈/跨时区紧急Bug协调/绩效考核1-on-1讨论新目标） |
 | Day 28 | 2026-06-20 | 写作日：需求变更讨论→正式决策邮件 | 6 | 结论先行(BLUF)/名词短语替代从句/bullet list分配Action Items/时态选择/语气调节/邮件万能模板 |
 | Day 29 | 2026-06-21 | 轻松英文：职场幽默生存指南——不是讲笑话，是会接话 | 7 | Deadpan/Self-Deprecation/Playful Trade/Jargon Misuse/Exaggeration/Yes And/Anti-Climax |
+| Day 30 | 2026-06-22 | 周会上用一句话说清复杂项目 | 8 | in a nutshell / on track to / the bottom line is / put that in plain English / think of it like / a skeleton crew / take that offline / clear and concise |
