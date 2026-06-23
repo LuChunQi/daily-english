@@ -50,3 +50,4 @@
 | Day 29 | 2026-06-21 | 轻松英文：职场幽默生存指南——不是讲笑话，是会接话 | 7 | Deadpan/Self-Deprecation/Playful Trade/Jargon Misuse/Exaggeration/Yes And/Anti-Climax |
 | Day 30 | 2026-06-22 | 周会上用一句话说清复杂项目 | 8 | in a nutshell / on track to / the bottom line is / put that in plain English / think of it like / a skeleton crew / take that offline / clear and concise |
 | Day 31 | 2026-06-23 | 开会时如何打断、插话、把话题拉回来 | 8 | you've got the floor / before we go further down this path / can I flag something / good catch / play devil's advocate / can I jump in / go down that rabbit hole / take this offline |
+| Day 32 | 2026-06-24 | 视频会议翻车现场：屏幕共享、卡顿、跨时区协作 | 8 | choppy / free up some bandwidth / run into an edge case / go down a rabbit hole / all over the place / go up the chain / caught between a rock and a hard place / don't let perfect be the enemy of good |
