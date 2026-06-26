@@ -53,3 +53,4 @@
 | Day 32 | 2026-06-24 | 视频会议翻车现场：屏幕共享、卡顿、跨时区协作 | 8 | choppy / free up some bandwidth / run into an edge case / go down a rabbit hole / all over the place / go up the chain / caught between a rock and a hard place / don't let perfect be the enemy of good |
 | Day 33 | 2026-06-25 | 和外国同事聊健身与自律 | 8 | drag·dragging / doomscrolling / get one's act together / set the tone / the first thing to go (out the window) / stupid small / string together / hold someone to something |
 | Day 34 | 2026-06-26 | 第5周复习：32个语块速查+3个新场景重练 | 32 | Day 30-33 全部语块复习，3个新场景（紧急延期汇报/跨团队重复工作发现/绩效考核1-on-1设定成长目标） |
+| Day 35 | 2026-06-27 | 写作日：混乱视频会议→会议效率改进建议邮件 | 6 | 口语→书面6技巧(Nominalization/表格替代段落/删填充词/recommend替代should/BLUF/时态选择)+18个口语→书面对照表 |
