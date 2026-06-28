@@ -54,6 +54,10 @@ async def generate_dialogue_audio(dialogue_path: str, output_path: str = None):
         if not line:
             continue
         
+        # 去掉所有 markdown 加粗标记 **
+        line = line.replace('**', '')
+        line = line.strip()
+        
         # 匹配说话人
         speaker_match = re.match(r'^([A-D])\s*(?:[（(][^）)]*[）)])?\s*[:：]\s*(.+?)(?:\s*>\s*.+)?$', line)
         
