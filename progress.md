@@ -58,3 +58,4 @@
 | Day 37 | 2026-06-29 | 季度复盘：向上级汇报项目成果与瓶颈 | 8 | recap / ship ahead of schedule / boil the ocean / cut something up front / come down to / fall short / kick the can down the road / get behind something |
 | Day 38 | 2026-06-30 | 技术方案评审会上为你的方案辩护 | 8 | hit a ceiling / good catch / lead with / go sideways / big-bang / socialize with / give the green light / warming up to |
 | Day 39 | 2026-07-01 | Slack 处理跨团队依赖：催进度不伤感情 | 8 | quick check-in / juggling a couple of fires / slip / blocked on / eat into / critical path / a lifesaver / we're golden |
+| Day 40 | 2026-07-02 | 同事搬新家：聊天中学会闲聊破冰 | 8 | take the plunge / a mixed bag / settle in / stumble upon / on the hunt for / survive on / claim one's spot / sounds like a plan |
