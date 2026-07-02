@@ -59,3 +59,4 @@
 | Day 38 | 2026-06-30 | 技术方案评审会上为你的方案辩护 | 8 | hit a ceiling / good catch / lead with / go sideways / big-bang / socialize with / give the green light / warming up to |
 | Day 39 | 2026-07-01 | Slack 处理跨团队依赖：催进度不伤感情 | 8 | quick check-in / juggling a couple of fires / slip / blocked on / eat into / critical path / a lifesaver / we're golden |
 | Day 40 | 2026-07-02 | 同事搬新家：聊天中学会闲聊破冰 | 8 | take the plunge / a mixed bag / settle in / stumble upon / on the hunt for / survive on / claim one's spot / sounds like a plan |
+| Day 41 | 2026-07-03 | 第6周复习：32个语块速查+3个新场景重练 | 32 | Day 37-40 全部语块复习，3个新场景（季度汇报+方案评审+新办公室闲聊） |
