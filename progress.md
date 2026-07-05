@@ -62,3 +62,4 @@
 | Day 41 | 2026-07-03 | 第6周复习：32个语块速查+3个新场景重练 | 32 | Day 37-40 全部语块复习，3个新场景（季度汇报+方案评审+新办公室闲聊） |
 | Day 42 | 2026-07-04 | 写作日：季度复盘口语→正式QBR邮件 | 6 | BLUF/名词化/bullet list/习语→正式/数字精确化/万能模板+18个口语→书面对照表 |
 | Day 43 | 2026-07-05 | 轻松英文：职场Chinglish翻车现场——十大高频错误+地道替代 | 15 | Please find the attached→I've attached/discuss about→discuss/revert→get back/check and confirm→confirm/As per→As we discussed/I am writing to inform→heads-up/Do the needful→handle this/doubts→concerns/herewith→attached/today itself→today |
+| Day 44 | 2026-07-06 | Sprint 排期博弈：当需求多过产能 | 8 | make some hard calls / do full justice / split the team / chime in / non-negotiable·put my foot down / scope down to an MVP / bolt on / cross that bridge when we come to it |
