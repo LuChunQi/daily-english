@@ -65,3 +65,4 @@
 | Day 44 | 2026-07-06 | Sprint 排期博弈：当需求多过产能 | 8 | make some hard calls / do full justice / split the team / chime in / non-negotiable·put my foot down / scope down to an MVP / bolt on / cross that bridge when we come to it |
 | Day 45 | 2026-07-07 | 会议上被质疑数据，如何冷静回应 | 8 | a bit skeptical about / address head-on / how confident are you in / feels like a stretch / backing that out / single source of truth / not trying to nitpick / on solid ground |
 | Day 46 | 2026-07-08 | Slack 上协调紧急修复不伤和气 | 8 | heads-down / spare X minutes / sanity-check / got pulled into / ran long / better safe than sorry / blast radius / I owe you one |
+| Day 47 | 2026-07-09 | 跟同事去看球赛：体育话题破冰 | 8 | walk through / a quick study / keep your eyes on / hit it out of the park / go wild / get hyped / When in Rome / beyond |
