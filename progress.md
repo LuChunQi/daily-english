@@ -69,3 +69,4 @@
 | Day 48 | 2026-07-10 | 第7周复习：32个语块速查+3个新场景重练 | 32 | Day 44-47 全部语块复习，3个新场景（预算削减会议/数据团队对口径/密室逃脱） |
 | Day 49 | 2026-07-11 | 写作日：Sprint排期讨论→正式Sprint计划邮件 | 6 | BLUF/名词化/表格替代段落/习语→正式/时态选择/语气调节+15个口语→书面对照表 |
 | Day 50 | 2026-07-12 | 轻松英文：英文Podcast入门指南——通勤路上也能学英文 | 8 | stay tuned / bring someone on / take a deep dive into / give a shout-out to / on that note / food for thought / wrap up / you're in for a treat |
+| Day 51 | 2026-07-13 | 周会上提出项目风险并讨论应对方案 | 8 | underestimate the blast radius / elaborate on / factor in / go down silently / kick the can down the road / front-load the risk / carve out / speak up |
