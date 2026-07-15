@@ -72,3 +72,4 @@
 | Day 51 | 2026-07-13 | 周会上提出项目风险并讨论应对方案 | 8 | underestimate the blast radius / elaborate on / factor in / go down silently / kick the can down the road / front-load the risk / carve out / speak up |
 | Day 52 | 2026-07-14 | 会议上汇报测试翻车，说服各方同意延期发布 | 8 | cut to the chase / in good shape / hotfix / roll the dice / sign my name to / tough sell / spell out / green-light |
 | Day 53 | 2026-07-15 | Slack 上协调跨团队 Code Review | 8 | drowning in / upfront (about) / nice to have / knock it out / take a first pass (at) / turn it around / slip through the cracks / better to over-communicate |
+| Day 54 | 2026-07-16 | 同事邀你参加密室逃脱：用英文计划周末活动 | 8 | You in? / give it a shot / jump scares / two minutes to spare / count me in / Fair warning / competitive / tag along |
