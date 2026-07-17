@@ -74,3 +74,4 @@
 | Day 53 | 2026-07-15 | Slack 上协调跨团队 Code Review | 8 | drowning in / upfront (about) / nice to have / knock it out / take a first pass (at) / turn it around / slip through the cracks / better to over-communicate |
 | Day 54 | 2026-07-16 | 同事邀你参加密室逃脱：用英文计划周末活动 | 8 | You in? / give it a shot / jump scares / two minutes to spare / count me in / Fair warning / competitive / tag along |
 | Day 55 | 2026-07-17 | 第8周复习：32个语块速查+3个新场景重练 | 31 | Day 51-54 全部语块复习，3个新场景（第三方API风险汇报/设计稿跨团队协调/季度团建outing讨论） |
+| Day 56 | 2026-07-18 | 写作日：测试翻车→正式延期建议邮件 | 6 | BLUF/名词化/表格化/习语替换/语气调节/时态选择+15个口语→书面对照表 |
