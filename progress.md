@@ -76,3 +76,4 @@
 | Day 55 | 2026-07-17 | 第8周复习：32个语块速查+3个新场景重练 | 31 | Day 51-54 全部语块复习，3个新场景（第三方API风险汇报/设计稿跨团队协调/季度团建outing讨论） |
 | Day 56 | 2026-07-18 | 写作日：测试翻车→正式延期建议邮件 | 6 | BLUF/名词化/表格化/习语替换/语气调节/时态选择+15个口语→书面对照表 |
 | Day 57 | 2026-07-19 | 轻松英文：电影台词在职场怎么用 | 8 | Houston we have a problem / I'll be back / May the Force be with you / You can't handle the truth / There's no place like home / To infinity and beyond / Life is like a box of chocolates / I'm king of the world |
+| Day 58 | 2026-07-20 | 新员工 Onboarding：半天上手一个陌生系统 | 8 | get your hands dirty / a lot to take in / get up to speed / falls into place / good catch / source of truth / poke around / feel empowered to |
