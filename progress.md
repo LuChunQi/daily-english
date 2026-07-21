@@ -78,3 +78,4 @@
 | Day 57 | 2026-07-19 | 轻松英文：电影台词在职场怎么用 | 8 | Houston we have a problem / I'll be back / May the Force be with you / You can't handle the truth / There's no place like home / To infinity and beyond / Life is like a box of chocolates / I'm king of the world |
 | Day 58 | 2026-07-20 | 新员工 Onboarding：半天上手一个陌生系统 | 8 | get your hands dirty / a lot to take in / get up to speed / falls into place / good catch / source of truth / poke around / feel empowered to |
 | Day 59 | 2026-07-21 | 被临时点名发言：即兴发言与临场组织语言 | 8 | on the fence / jump the gun / unpack / get ahead of oneself / step on each other's toes / disguised as / throw cold water on / bite off more than you can chew |
+| Day 60 | 2026-07-22 | Retro 会上推动流程改进 | 8 | be honest but constructive / derail / context-switch / push back (a little) / own that one / be on the same page / circulate / systemic issue |
