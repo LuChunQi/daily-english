@@ -80,3 +80,4 @@
 | Day 59 | 2026-07-21 | 被临时点名发言：即兴发言与临场组织语言 | 8 | on the fence / jump the gun / unpack / get ahead of oneself / step on each other's toes / disguised as / throw cold water on / bite off more than you can chew |
 | Day 60 | 2026-07-22 | Retro 会上推动流程改进 | 8 | be honest but constructive / derail / context-switch / push back (a little) / own that one / be on the same page / circulate / systemic issue |
 | Day 61 | 2026-07-22 | Slack 上远程调试生产问题 | 8 | heads-up / surface to users / blast radius / dig into / time out / fail gracefully / keep the tone neutral / circle back |
+| Day 62 | 2026-07-23 | 周末 Farmer's Market 闲逛：跟同事聊有机食品与本地生活 | 8 | night and day / eat clean / to die for / old-school / more of a [noun] / make a morning out of it / the more the merrier / be hooked |
