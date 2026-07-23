@@ -81,3 +81,4 @@
 | Day 60 | 2026-07-22 | Retro 会上推动流程改进 | 8 | be honest but constructive / derail / context-switch / push back (a little) / own that one / be on the same page / circulate / systemic issue |
 | Day 61 | 2026-07-22 | Slack 上远程调试生产问题 | 8 | heads-up / surface to users / blast radius / dig into / time out / fail gracefully / keep the tone neutral / circle back |
 | Day 62 | 2026-07-23 | 周末 Farmer's Market 闲逛：跟同事聊有机食品与本地生活 | 8 | night and day / eat clean / to die for / old-school / more of a [noun] / make a morning out of it / the more the merrier / be hooked |
+| Day 63 | 2026-07-24 | 第9周复习：40个语块速查+3个新场景重练 | 40 | Day 58-62 全部语块复习，3个新场景（新人架构评审发言/Slack协调客户崩溃工单/跨团队工具迁移周会讨论） |
