@@ -83,3 +83,4 @@
 | Day 62 | 2026-07-23 | 周末 Farmer's Market 闲逛：跟同事聊有机食品与本地生活 | 8 | night and day / eat clean / to die for / old-school / more of a [noun] / make a morning out of it / the more the merrier / be hooked |
 | Day 63 | 2026-07-24 | 第9周复习：40个语块速查+3个新场景重练 | 40 | Day 58-62 全部语块复习，3个新场景（新人架构评审发言/Slack协调客户崩溃工单/跨团队工具迁移周会讨论） |
 | Day 64 | 2026-07-25 | 写作日：Slack远程调试→正式事故报告邮件 | 6 | BLUF/名词化/表格化/习语→正式替换/时态选择/万能事故报告模板+15个口语→书面对照表 |
+| Day 65 | 2026-07-26 | 轻松英文：英文歌词里的职场智慧——8句歌词学地道表达 | 8 | work one's way up / cross-functional / consistently / boil down to / stay the course / lean on someone / groupthink / hit the ground running |
