@@ -84,3 +84,4 @@
 | Day 63 | 2026-07-24 | 第9周复习：40个语块速查+3个新场景重练 | 40 | Day 58-62 全部语块复习，3个新场景（新人架构评审发言/Slack协调客户崩溃工单/跨团队工具迁移周会讨论） |
 | Day 64 | 2026-07-25 | 写作日：Slack远程调试→正式事故报告邮件 | 6 | BLUF/名词化/表格化/习语→正式替换/时态选择/万能事故报告模板+15个口语→书面对照表 |
 | Day 65 | 2026-07-26 | 轻松英文：英文歌词里的职场智慧——8句歌词学地道表达 | 8 | work one's way up / cross-functional / consistently / boil down to / stay the course / lean on someone / groupthink / hit the ground running |
+| Day 66 | 2026-07-27 | 项目启动会：从需求澄清到分工对齐 | 8 | get this show on the road / rowing in the same direction / starting from scratch / build in a buffer / an afterthought / take that on / a big reveal / we're in good shape |
