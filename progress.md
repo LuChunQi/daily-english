@@ -87,3 +87,4 @@
 | Day 66 | 2026-07-27 | 项目启动会：从需求澄清到分工对齐 | 8 | get this show on the road / rowing in the same direction / starting from scratch / build in a buffer / an afterthought / take that on / a big reveal / we're in good shape |
 | Day 67 | 2026-07-28 | 技术方案被否后推动共识：modular monolith 讨论 | 8 | bite off more than you can chew / sleep on it / stage in phases / get behind / put something on the table / pull the trigger (on) / play devil's advocate / devolve into |
 | Day 68 | 2026-07-29 | Slack 上协调第一波 Sprint 任务 | 8 | aligned / over-engineer / got a sec / loop someone in / drop-in replacement / happy path / fair heads-up / better to over-communicate |
+| Day 69 | 2026-07-30 | 后院烧烤局：同事周末聚会聊出人脉红利 | 8 | glad you could make it / if you're so inclined / finding my feet / who owns what / hoped for the best / pitch in / take you up on that / in the loop |
