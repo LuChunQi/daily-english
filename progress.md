@@ -88,3 +88,4 @@
 | Day 67 | 2026-07-28 | 技术方案被否后推动共识：modular monolith 讨论 | 8 | bite off more than you can chew / sleep on it / stage in phases / get behind / put something on the table / pull the trigger (on) / play devil's advocate / devolve into |
 | Day 68 | 2026-07-29 | Slack 上协调第一波 Sprint 任务 | 8 | aligned / over-engineer / got a sec / loop someone in / drop-in replacement / happy path / fair heads-up / better to over-communicate |
 | Day 69 | 2026-07-30 | 后院烧烤局：同事周末聚会聊出人脉红利 | 8 | glad you could make it / if you're so inclined / finding my feet / who owns what / hoped for the best / pitch in / take you up on that / in the loop |
+| Day 70 | 2026-07-31 | 第10周复习：32个语块速查+3个新场景重练 | 32 | Day 66-69 全部语块复习，3个新场景（预算叫停kickoff/Slack凌晨P1告警协调/年会聚餐跨部门社交） |
