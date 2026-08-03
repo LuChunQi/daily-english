@@ -92,3 +92,4 @@
 | Day 71 | 2026-08-01 | 写作日：Kickoff Meeting→正式摘要邮件 | 6 | BLUF/名词化/5种必备表格/习语→正式替换/时态选择/Kickoff邮件万能模板+15个口语→书面对照表 |
 | Day 72 | 2026-08-02 | 轻松英文：英文职场"潜台词"词典 | 8 | per my last email / with all due respect / going forward / take this offline / circle back / heads-up / sync / hope that makes sense |
 | Day 73 | 2026-08-03 | 项目上线后复盘：跨团队协作的坑怎么填 | 8 | point fingers / tight / sign-off / push back (on) / bake something in / code freeze / seconded / buffer day |
+| Day 74 | 2026-08-04 | 跨部门资源争夺：在会议上为团队争取人力 | 8 | bring to a grinding halt / put things in perspective / zero-sum game / split the difference / I've seen that movie before / not a lot of meat on the bone / slip through the cracks / not trying to downplay |
