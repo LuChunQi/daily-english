@@ -93,3 +93,4 @@
 | Day 72 | 2026-08-02 | 轻松英文：英文职场"潜台词"词典 | 8 | per my last email / with all due respect / going forward / take this offline / circle back / heads-up / sync / hope that makes sense |
 | Day 73 | 2026-08-03 | 项目上线后复盘：跨团队协作的坑怎么填 | 8 | point fingers / tight / sign-off / push back (on) / bake something in / code freeze / seconded / buffer day |
 | Day 74 | 2026-08-04 | 跨部门资源争夺：在会议上为团队争取人力 | 8 | bring to a grinding halt / put things in perspective / zero-sum game / split the difference / I've seen that movie before / not a lot of meat on the bone / slip through the cracks / not trying to downplay |
+| Day 75 | 2026-08-05 | Slack 上跨团队协调紧急客户工单 | 8 | hop on / platform-wide / drag on / smoking gun / dig in / hammered with / in the clear / reconvene |
