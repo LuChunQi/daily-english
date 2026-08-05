@@ -94,3 +94,4 @@
 | Day 73 | 2026-08-03 | 项目上线后复盘：跨团队协作的坑怎么填 | 8 | point fingers / tight / sign-off / push back (on) / bake something in / code freeze / seconded / buffer day |
 | Day 74 | 2026-08-04 | 跨部门资源争夺：在会议上为团队争取人力 | 8 | bring to a grinding halt / put things in perspective / zero-sum game / split the difference / I've seen that movie before / not a lot of meat on the bone / slip through the cracks / not trying to downplay |
 | Day 75 | 2026-08-05 | Slack 上跨团队协调紧急客户工单 | 8 | hop on / platform-wide / drag on / smoking gun / dig in / hammered with / in the clear / reconvene |
+| Day 76 | 2026-08-06 | 同事邀你去音乐节：周末计划与音乐品味闲聊 | 8 | hit up / the works / blow someone away / not my cup of tea / on a kick / jack up / sooner rather than later / lesson learned the hard way |
