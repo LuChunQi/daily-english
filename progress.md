@@ -96,3 +96,4 @@
 | Day 75 | 2026-08-05 | Slack 上跨团队协调紧急客户工单 | 8 | hop on / platform-wide / drag on / smoking gun / dig in / hammered with / in the clear / reconvene |
 | Day 76 | 2026-08-06 | 同事邀你去音乐节：周末计划与音乐品味闲聊 | 8 | hit up / the works / blow someone away / not my cup of tea / on a kick / jack up / sooner rather than later / lesson learned the hard way |
 | Day 77 | 2026-08-07 | 第11周复习：32个语块速查+3个新场景重练 | 32 | Day 73-76 全部语块复习，3个新场景（CI/CD复盘会/季度预算削减资源争夺/周末烹饪课社交闲聊） |
+| Day 78 | 2026-08-08 | 写作日：项目上线复盘→正式 Post-Launch Review 邮件 | 6 | BLUF/名词化/表格化Action Items/习语→正式替换/时态选择/Post-Launch Review万能模板+15个口语→书面对照表 |
