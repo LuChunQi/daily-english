@@ -99,3 +99,4 @@
 | Day 78 | 2026-08-08 | 写作日：项目上线复盘→正式 Post-Launch Review 邮件 | 6 | BLUF/名词化/表格化Action Items/习语→正式替换/时态选择/Post-Launch Review万能模板+15个口语→书面对照表 |
 | Day 79 | 2026-08-09 | 轻松英文：给反馈不伤人，接反馈不炸毛 | 17 | zoom in (on) / fire away / that's on me / nice-to-have / going forward / back-and-forth / that's fair / definition of done / jumped out at / bite us / sketch out / flag / bar / stood out / fair point / push over the line / unblock |
 | Day 80 | 2026-08-10 | 1-on-1 谈晋升：跟老板聊职业发展 | 8 | career trajectory / make a push for / be upfront (with) / take a backseat / absorb the loss / fall off the radar / sugarcoat / have the chops |
+| Day 81 | 2026-08-12 | 跨团队会议上提议联合方案被质疑可行性 | 8 | float an idea / where the ownership line sits / extensible by design / bottleneck / rotation model / big-bang migration / bare-bones / throw cold water (on) |
