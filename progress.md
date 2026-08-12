@@ -101,3 +101,4 @@
 | Day 80 | 2026-08-10 | 1-on-1 谈晋升：跟老板聊职业发展 | 8 | career trajectory / make a push for / be upfront (with) / take a backseat / absorb the loss / fall off the radar / sugarcoat / have the chops |
 | Day 81 | 2026-08-12 | 跨团队会议上提议联合方案被质疑可行性 | 8 | float an idea / where the ownership line sits / extensible by design / bottleneck / rotation model / big-bang migration / bare-bones / throw cold water (on) |
 | Day 82 | 2026-08-13 | Slack 上协调 UI 设计稿多轮反馈不伤和气 | 8 | hash it out / up in the air / flag / eat into / die on that hill / round up or down / on me / live with |
+| Day 83 | 2026-08-14 | 健身房偶遇同事：从运动习惯聊到自律与拖延 | 8 | small world / bump into / more of a ___ person / slack off / hits close to home / stupid small / pays for itself / hold someone to |
