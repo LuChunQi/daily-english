@@ -102,3 +102,4 @@
 | Day 81 | 2026-08-12 | 跨团队会议上提议联合方案被质疑可行性 | 8 | float an idea / where the ownership line sits / extensible by design / bottleneck / rotation model / big-bang migration / bare-bones / throw cold water (on) |
 | Day 82 | 2026-08-13 | Slack 上协调 UI 设计稿多轮反馈不伤和气 | 8 | hash it out / up in the air / flag / eat into / die on that hill / round up or down / on me / live with |
 | Day 83 | 2026-08-14 | 健身房偶遇同事：从运动习惯聊到自律与拖延 | 8 | small world / bump into / more of a ___ person / slack off / hits close to home / stupid small / pays for itself / hold someone to |
+| Day 84 | 2026-08-15 | 写作日：设计稿反馈拉锯→正式设计决策邮件 | 6 | 习语→正式替换/hash it out→reach a decision/数字精确化/Action Items表格/异议窗口(silent approval)/决策邮件黄金结构 |
