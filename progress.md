@@ -104,3 +104,4 @@
 | Day 83 | 2026-08-14 | 健身房偶遇同事：从运动习惯聊到自律与拖延 | 8 | small world / bump into / more of a ___ person / slack off / hits close to home / stupid small / pays for itself / hold someone to |
 | Day 84 | 2026-08-15 | 写作日：设计稿反馈拉锯→正式设计决策邮件 | 6 | 习语→正式替换/hash it out→reach a decision/数字精确化/Action Items表格/异议窗口(silent approval)/决策邮件黄金结构 |
 | Day 85 | 2026-08-16 | 轻松英文：英美英语"同名不同义"陷阱 | 8 | table(搁置vs提交)/quite good(弱化)/scheme(中性vs贬义)/redundant(裁员vs冗余)/homely(温馨vs其貌不扬)/momentarily(马上vs短暂)/gutted(心碎)/diary(日程vs日记)+park通用避坑 |
+| Day 86 | 2026-08-18 | 第一次主持跨团队周会：控场、总结、收尾 | 8+1 | run today's sync / kick us off / where we stand (on) / sticking point / go down that rabbit hole / park it·parking lot / (quick) time check / own (an action item) + bonus: We're adjourned |
