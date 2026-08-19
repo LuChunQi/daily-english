@@ -106,3 +106,4 @@
 | Day 85 | 2026-08-16 | 轻松英文：英美英语"同名不同义"陷阱 | 8 | table(搁置vs提交)/quite good(弱化)/scheme(中性vs贬义)/redundant(裁员vs冗余)/homely(温馨vs其貌不扬)/momentarily(马上vs短暂)/gutted(心碎)/diary(日程vs日记)+park通用避坑 |
 | Day 86 | 2026-08-18 | 第一次主持跨团队周会：控场、总结、收尾 | 8+1 | run today's sync / kick us off / where we stand (on) / sticking point / go down that rabbit hole / park it·parking lot / (quick) time check / own (an action item) + bonus: We're adjourned |
 | Day 87 | 2026-08-19 | 咖啡机边被老板抓个正着：30秒口头同步进展 | 8+1 | glad I ran into you / keep tabs on / the short version is / eat into / don't let me hold you up / nothing's on fire / keep me posted / a one-liner + bonus: that kind of week |
+| Day 88 | 2026-08-20 | 同事约你去露营：从"苦差事"到"真香"只用一晚 | 8+1 | You in? / what's the selling point / rough it / wide open / if you're so inclined / show off / drown out / Count me in + bonus: fair warning |
