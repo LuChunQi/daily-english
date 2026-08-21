@@ -108,3 +108,4 @@
 | Day 87 | 2026-08-19 | 咖啡机边被老板抓个正着：30秒口头同步进展 | 8+1 | glad I ran into you / keep tabs on / the short version is / eat into / don't let me hold you up / nothing's on fire / keep me posted / a one-liner + bonus: that kind of week |
 | Day 88 | 2026-08-20 | 同事约你去露营：从"苦差事"到"真香"只用一晚 | 8+1 | You in? / what's the selling point / rough it / wide open / if you're so inclined / show off / drown out / Count me in + bonus: fair warning |
 | Day 89 | 2026-08-21 | 第13周复习：30个语块速查+3个新场景重练 | 27+3 | Day 86-88 全部语块复习，3个新场景（代班主持客户Demo周会/电梯遇VP即兴汇报/城市农场志愿活动应约），覆盖率100% |
+| Day 90 | 2026-08-22 | 写作日：咖啡机30秒口头汇报→正式状态同步邮件 | 6 | Summary结论行/模糊比例→精确分数+时间戳/风险三件套(触发条件+fallback+Owner)/会被转发原则/Next update明确节奏+15个口语→书面速查表 |
