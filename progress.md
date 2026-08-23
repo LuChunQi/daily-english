@@ -110,3 +110,4 @@
 | Day 89 | 2026-08-21 | 第13周复习：30个语块速查+3个新场景重练 | 27+3 | Day 86-88 全部语块复习，3个新场景（代班主持客户Demo周会/电梯遇VP即兴汇报/城市农场志愿活动应约），覆盖率100% |
 | Day 90 | 2026-08-22 | 写作日：咖啡机30秒口头汇报→正式状态同步邮件 | 6 | Summary结论行/模糊比例→精确分数+时间戳/风险三件套(触发条件+fallback+Owner)/会被转发原则/Next update明确节奏+15个口语→书面速查表 |
 | Day 91 | 2026-08-23 | 轻松英文：Emoji 职场生存指南 | 8 | 👍风险分层/🙂单发即核弹/✅最安全/👀观望/🙏万能软垫/😅自嘲保护罩/🤔委婉异议/💀 Gen Z我裂开了+句号定律+安全等级速查 |
+| Day 92 | 2026-08-24 | 周一优先级对齐：三件事只排得下两件 | 8 | on my plate / blocking other people / headline for the week / commit to a deadline / the sooner the better / push back on / carve out / on the same page |
