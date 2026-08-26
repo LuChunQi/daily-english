@@ -113,3 +113,4 @@
 | Day 92 | 2026-08-24 | 周一优先级对齐：三件事只排得下两件 | 8 | on my plate / blocking other people / headline for the week / commit to a deadline / the sooner the better / push back on / carve out / on the same page |
 | Day 93 | 2026-08-25 | 会议上主导工具选型讨论并当场拍板 | 8+1 | lay out / up and running / trade-off / the elephant in the room / on the table / hedge our bets / worst case / bite the bullet / call it |
 | Day 94 | 2026-08-26 | Slack 上礼貌催 code review：把 review 要回来 | 8+1 | just a quick check-in on / slip my mind / drop-dead date / code freeze / cutting it too close / That'd be a lifesaver / feel free to skim / fall through the cracks / just ping me |
+| Day 95 | 2026-08-27 | 公司野餐会：10 分钟闲聊让新老同事记住你 | 8+2 | put faces to names / make it to someone's radar / How are the first few weeks treating you / a lot to take in / survive on / Guilty as charged / cover to cover / fresh eyes / Bring them on / foods on me |
