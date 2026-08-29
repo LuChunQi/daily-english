@@ -115,3 +115,5 @@
 | Day 94 | 2026-08-26 | Slack 上礼貌催 code review：把 review 要回来 | 8+1 | just a quick check-in on / slip my mind / drop-dead date / code freeze / cutting it too close / That'd be a lifesaver / feel free to skim / fall through the cracks / just ping me |
 | Day 95 | 2026-08-27 | 公司野餐会：10 分钟闲聊让新老同事记住你 | 8+2 | put faces to names / make it to someone's radar / How are the first few weeks treating you / a lot to take in / survive on / Guilty as charged / cover to cover / fresh eyes / Bring them on / foods on me |
 | Day 96 | 2026-08-28 | 第14周复习：36个语块速查+3个新场景重练 | 36 | Day 92-95 全部语块复习，3个新场景（休假归来排期+当场拍板/code freeze催review+文档认领/welcome drinks新同事破冰），覆盖率100% |
+| Day 97 | 2026-08-29 | 写作日：口头拍板→正式 Decision Record 决策记录邮件（ADR 风格） | 6 | 决策先行可引用句/Rationale数字加时间戳/承认对立面/异议窗口 silent approval/Revisit日期/worst case写入正文+决策邮件黄金结构（昨 cron 未推上，今日补交） |
+| Day 98 | 2026-08-30 | 轻松英文：美式职场体育习语词典 | 8+1 | touch base / ballpark figure / drop the ball / out of left field / step up to the plate / curveball / Monday-morning quarterback / move the goalposts + 彩蛋 a whole new ball game，含防翻车指南（跨文化慎用） |
