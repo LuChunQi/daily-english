@@ -118,3 +118,4 @@
 | Day 97 | 2026-08-29 | 写作日：口头拍板→正式 Decision Record 决策记录邮件（ADR 风格） | 6 | 决策先行可引用句/Rationale数字加时间戳/承认对立面/异议窗口 silent approval/Revisit日期/worst case写入正文+决策邮件黄金结构（昨 cron 未推上，今日补交） |
 | Day 98 | 2026-08-30 | 轻松英文：美式职场体育习语词典 | 8+1 | touch base / ballpark figure / drop the ball / out of left field / step up to the plate / curveball / Monday-morning quarterback / move the goalposts + 彩蛋 a whole new ball game，含防翻车指南（跨文化慎用） |
 | Day 99 | 2026-08-31 | 接手离职同事的核心系统：把"隐性知识"挖出来 | 8+1 | drink from a firehose / under the hood / tribal knowledge / single point of failure / document as you go / pick someone's brain / leave a paper trail / run point (on) + 彩蛋 make it into |
+| Day 100 | 2026-09-01 | 周会首秀：汇报系统接手进展并接下 On-call | 8+1 | pick up where someone left off / long story short / wrap my head around / not out of the woods / a realistic timeline / put out fires / field questions / have someone's back + 彩蛋 I'll take that one | 🎉 Day 100 里程碑：Day 99 接手系统的剧情延续，会上接 pager 时间线谈判 |
