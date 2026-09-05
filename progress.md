@@ -122,3 +122,4 @@
 | Day 101 | 2026-09-02 | On-call 首秀：Slack 上处理第一个 Page | 8+1 | get paged / stale·user-facing / trace back to / headroom / throttle back·dial it down / drain·catch up / that's on X as much as on Y / baptism by fire + 彩蛋 know inside out | 剧情连续：Day 99-100 接手系统+接 pager，今晨首个告警排查 |
 | Day 102 | 2026-09-03 | Happy Hour 初体验：on-call 一周活下来同事拉你去喝一杯 | 8+1 | take a load off / You've earned it / glued to one's phone / in good company / rookie mistake / trade war stories / take your mind off / split the bill + 彩蛋 live to tell the tale；中美买单文化差异；Day 99-101 剧情线收尾 |
 | Day 103 | 2026-09-04 | 第15周复习：36个语块速查+3个新场景重练 | 36 | Day 99-102 全部语块复习，3个新场景（知识分享会传承经验/季度末周五排障+容量评审/taco店犒赏闲聊），覆盖率100% |
+| Day 104 | 2026-09-05 | 写作日：口头救火请求→正式 Capacity Review 提案邮件 | 6 | BLUF+阅读引导/时间戳事实/不指人的root cause/worst case入文/异议窗口/rollout节奏+15个口语→书面速查表（昨日cron未推上，9/6补commit） |
