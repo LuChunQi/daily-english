@@ -123,3 +123,4 @@
 | Day 102 | 2026-09-03 | Happy Hour 初体验：on-call 一周活下来同事拉你去喝一杯 | 8+1 | take a load off / You've earned it / glued to one's phone / in good company / rookie mistake / trade war stories / take your mind off / split the bill + 彩蛋 live to tell the tale；中美买单文化差异；Day 99-101 剧情线收尾 |
 | Day 103 | 2026-09-04 | 第15周复习：36个语块速查+3个新场景重练 | 36 | Day 99-102 全部语块复习，3个新场景（知识分享会传承经验/季度末周五排障+容量评审/taco店犒赏闲聊），覆盖率100% |
 | Day 104 | 2026-09-05 | 写作日：口头救火请求→正式 Capacity Review 提案邮件 | 6 | BLUF+阅读引导/时间戳事实/不指人的root cause/worst case入文/异议窗口/rollout节奏+15个口语→书面速查表（昨日cron未推上，9/6补commit） |
+| Day 106 | 2026-09-07 | QBR 会前 25 分钟：和 Growth Lead 对口径 | 8+1 | walk in on the same page / make them count / a little too thorough / frame it as / get behind / Volunteering reads better than being volunteered / carry more weight / set expectations + 彩蛋 no cap；剧情线大结局：Day 103 救火→104 提案→今天 QBR 现场对齐框定 |
