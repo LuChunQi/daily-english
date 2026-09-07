@@ -124,3 +124,4 @@
 | Day 103 | 2026-09-04 | 第15周复习：36个语块速查+3个新场景重练 | 36 | Day 99-102 全部语块复习，3个新场景（知识分享会传承经验/季度末周五排障+容量评审/taco店犒赏闲聊），覆盖率100% |
 | Day 104 | 2026-09-05 | 写作日：口头救火请求→正式 Capacity Review 提案邮件 | 6 | BLUF+阅读引导/时间戳事实/不指人的root cause/worst case入文/异议窗口/rollout节奏+15个口语→书面速查表（昨日cron未推上，9/6补commit） |
 | Day 106 | 2026-09-07 | QBR 会前 25 分钟：和 Growth Lead 对口径 | 8+1 | walk in on the same page / make them count / a little too thorough / frame it as / get behind / Volunteering reads better than being volunteered / carry more weight / set expectations + 彩蛋 no cap；剧情线大结局：Day 103 救火→104 提案→今天 QBR 现场对齐框定 |
+| Day 107 | 2026-09-08 | QBR 现场：三页幻灯片、一个 Ask——向 VP 汇报并当场拿到决策 | 8+1 | What's the ask? / level with me / spring (something) on someone / run the numbers / make it stick / rubber-stamp / the data does the talking / a small price to pay + 彩蛋 a footnote, not a headline；含 Day 106 变造挑战参考答案；剧情新篇：Leo 上台 15 分钟，10/2 复盘埋下钩子 |
